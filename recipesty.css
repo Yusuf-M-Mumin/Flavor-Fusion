@@ -1,8 +1,15 @@
-.header {
-    text-align: center;
+body{
+    font-family: Verdana, sans-serif;
 }
 
-.navbar {
+.header{
+    text-align: center;
+    background-image: url(sarapabg.jpg);
+    background-repeat: repeat-x;
+    color: white;
+}
+
+.navbar{
     font-size: 20px;
     position: -webkit-sticky; /* Ensures nav bar compatibility with Safari */
     position: sticky;
@@ -33,10 +40,6 @@
     background-color: rgb(101, 218, 179);
 }
 
-.active{ /* Shows active page in nav bar */
-    background-color: rgb(10, 158, 77);
-}
-
 .name{
     text-align: center;
     border: 1px solid red;
@@ -55,7 +58,7 @@
 }
 
 .desc-img{
-    height: 290px;
+    height: 200px;
 }
 
 .descinfo{
