@@ -1,3 +1,42 @@
+.header {
+    text-align: center;
+}
+
+.navbar {
+    font-size: 20px;
+    position: -webkit-sticky; /* Ensures nav bar compatibility with Safari */
+    position: sticky;
+    top: 0;
+}
+
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(54, 94, 163);
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover{
+    background-color: rgb(101, 218, 179);
+}
+
+.active{ /* Shows active page in nav bar */
+    background-color: rgb(10, 158, 77);
+}
+
 .name{
     text-align: center;
     border: 1px solid red;
