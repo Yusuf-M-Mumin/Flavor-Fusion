@@ -1,18 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
 body{
     font-family: Verdana, sans-serif;
+    margin: 0;
 }
 
 .header{
+    margin: 0;
     text-align: center;
+    padding: 20px;
     background-image: url(sarapabg.jpg);
+    background-size: cover;
     background-repeat: repeat-x;
     color: white;
 }
 
 .navbar{
-    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
     position: -webkit-sticky; /* Ensures nav bar compatibility with Safari */
     position: sticky;
+    z-index: 10;
     top: 0;
 }
 
@@ -58,7 +70,9 @@ body{
 }
 
 .desc-img{
-    height: 200px;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
 }
 
 .descinfo{
