@@ -16,12 +16,19 @@ body{
     background-color: #F1F0EA;
 }
 
+h2 {
+    font-family: "Zain", sans-serif;
+    font-size: 30px;
+}
+
 .header{
     margin: 0;
     text-align: center;
     padding: 20px;
     background-color: #B6465F;
     color: #F1F0EA;
+    font-family: "Zain", sans-serif;
+    font-size: 35px;
 }
 
 .navbar{
@@ -46,6 +53,7 @@ body{
 
 .navbar li{
     float: left;
+    font-family: "Inter", sans-serif;
 }
 
 .navbar li a{
@@ -77,6 +85,9 @@ body{
 .name{
     text-align: center;
     margin: 30px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
 }
 
 .desc{
@@ -99,6 +110,7 @@ body{
     flex-basis: 30%;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-family: "Inter", sans-serif;
 }
 
 .bottom{
@@ -118,7 +130,11 @@ body{
     margin-left: 25px;
 }
 
-.steps{
+.instructions li {
+    font-family: "Inter", sans-serif;
+}
+
+.steps {
     margin: 50px;
     font-size: larger;
 }
@@ -132,6 +148,7 @@ body{
     padding-left: 25px;
     padding-top: 0px;
     margin: 50px;
+    font-family: "Inter", sans-serif;
 }
 
 label:hover{
@@ -146,6 +163,7 @@ label:hover{
     perspective: 1000px;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-family: "Inter", sans-serif;
 }
   
 .flip-card-inner {
@@ -188,14 +206,17 @@ label:hover{
     margin-bottom: 5px;
     align-content: center;
     text-align: center;
+    font-family: "Inter", sans-serif;
 }
 
 .dietlabels {
     display: inline-block;
     color: #F1F0EA;
     padding: 8px 10px;
+    font-family: "Inter", sans-serif;
     font-size: 15px;
     text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .vegetarian {
