@@ -1,0 +1,890 @@
+recipes
+
+totaltime:
+descinfo:
+nutritional info:
+	serving size: <br>
+	calories: <br>
+	total fat: <br>
+	carbs: <br>
+	sugar: <br>
+	protein: <br>
+	cholesterol: <br>
+	sodium: <br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup panko breadcrumbs<br></label>
+                    </p>
+instructions:
+	<li></li><br>
+appetizers___
+
+
+________________________________________________________________________
+
+party meatballs---------------:
+total time:45 min
+
+descinfo:
+The best thing about these meatballs, besides the flavor of course, is that I can make them ahead of time, bake them and then pop them in the freezer. They'll thaw as they simmer away in the sauce. For ease, I use my favorite store-bought brand, but if you have a favorite homemade sauce, feel free to substitute that instead.
+
+	nutritional info:
+                    serving size: 1 of 14<br>
+                    calories: 299<br>
+                    total fat: 18g<br>
+		    carbs: 12g<br>
+		    sugar: 6g<br>
+                    protein: 22g<br>
+		    cholesterol: 91mg<br>
+                    sodium: 747mg<br>
+	ingredients:
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup panko breadcrumbs<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 cup whole milk<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 pound ground chuck<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 pound ground veal<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 pound ground hot Italian sausage<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup grated Parmesan<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons chopped fresh parsley<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon garlic powder<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon kosher salt<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon freshly ground black pepper<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 teaspoon grated nutmeg<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 large eggs<br></label>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>Two 24-ounce jars marinara sauce<br></label>
+                    </p>
+
+	instructions:
+                    <li>Preheat the oven to 425 degrees F. Line a large rimmed baking sheet with parchment paper.</li><br>
+                    <li>Combine the panko and milk in a small bowl. Let stand until the liquid is absorbed, about 5 minutes. (The mixture should form a paste.)</li><br>
+                    <li>Gently combine the breadcrumb mixture, chuck, veal, sausage, cheese, parsley, garlic powder, salt, pepper, nutmeg and eggs in a large bowl. Be careful not to overmix.</li><br>
+                    <li>Use a small cookie scoop to shape the mixture into forty 1 1/2-inch balls. Place the meatballs 1/2-inch apart on the prepared baking sheet. Bake until the meatballs are cooked through, about 20 minutes.</li><br>
+                    <li>Meanwhile, heat the marinara sauce in a large Dutch oven over medium heat. Remove the meatballs from the baking sheet and add to the simmering sauce.</li><br>
+
+
+______________________________________________________________________________
+
+pimiento cheese straws--------------:
+descinfo: You know your girl loves pimiento cheese, so I decided to give my spin to this classic Southern snack. A cheese straw is basically a cracker. Here, the dough is piped into skinny strips before being baked. They're great to make as an appetizer or even for gift giving around the holidays.
+totaltime: 1hr 50min
+nutritional info:
+	serving size: 1 of 24 servings<br>
+	calories: 102<br>
+	total fat: 7g<br>
+	carbs: 7g<br>
+	sugar: <br>
+	protein: 3g<br>
+	cholesterol: 20mg<br>
+	sodium: 108mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup (1 stick) salted butter, at room temperatures<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 ounces extra-sharp Cheddar, freshly shredded<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 ounces smoked yellow Cheddar, freshly shredded<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons Miss Brown’s House Seasoning, recipe follows<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 teaspoon cayenne pepper<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 1/2 cups soft wheat all-purpose flour, such as White Lily<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon baking powder<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon diced pimientos plus 1 tablespoon pimiento juice<br></label>
+                    </p>
+
+
+
+instructions:
+	<li>Line 2 baking sheets with parchment paper. Combine the butter, extra-sharp Cheddar, smoked Cheddar, House Seasoning and cayenne pepper in a food processor and pulse until thoroughly combined, about 2 minutes. Sift together the flour and baking powder and add to the food processor. Pulse until combined. Add the pimientos and pimiento juice. Add 2 tablespoons of water and pulse until the mixture is smooth, adding an additional 2 tablespoons of water if needed to reach a pipe-able consistency.</li><br>
+
+	<li>Spoon the dough into a pastry bag fitted with a star tip. Pipe into 3-inch pieces on the prepared baking sheets. Freeze for 30 minutes.</li><br>
+
+	<li>Preheat the oven to 350 degrees F.</li><br>
+
+	<li>Bake the cheese straws, rotating the pans halfway through, until they are crisp and cooked through, 18 to 20 minutes. Remove from the oven, then remove from the baking sheets to wire racks to cool. Store at room temperature in an airtight container for up to 3 weeks.</li><br>
+
+
+____________________________________________________________________________________________
+
+Crab Rangoon Wonton Cups -----------------------------
+totaltime: 50min
+descinfo: Crab rangoon is one of my favorite appetizers to order when I go to a Chinese restaurant, so I decided to make an inspired version at home. In addition to more crabmeat, I've also added white Cheddar and roasted red peppers. These are so good — I bet you can't eat just one!
+nutritional info:
+	serving size: 1 of 24<br>
+	calories: 150<br>
+	total fat: 4g<br>
+	carbs: 20g<br>
+	sugar: 1g<br>
+	protein: 7g<br>
+	cholesterol: 22mg<br>
+	sodium: 307mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>Nonstick cooking spray, for the muffin tin<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>24 wonton wrappers<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>One 8-ounce block low-fat cream cheese, at room temperature<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 ounces sharp white Cheddar, shredded<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 green onions, sliced (white and green parts separated)<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon drained chopped roasted red peppers<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon Worcestershire sauce<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons seafood seasoning, such as Old Bays<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon garlic powder<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon onion powder<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon kosher salt<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon freshly ground pepper<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>8 ounces lump crabmeat<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 red bell pepper, minced<br></label>
+                    </p>
+instructions:
+	<li>Preheat the oven to 350 degrees F. Coat a 24-count mini muffin tin with nonstick cooking spray.</li><br>
+	<li>Press one wonton wrapper into each well of the muffin tin. Coat the top of the wonton wrappers with cooking spray. Bake until golden brown, about 8 minutes.</li><br>
+	<li>Meanwhile, combine the cream cheese, Cheddar, the white part of the green onions, roasted red peppers, Worcestershire sauce, seafood seasoning, garlic powder, onion powder, salt and pepper in a bowl until fully incorporated. Gently fold in the crabmeat and set aside.</li><br>
+	<li>Spoon about 1 tablespoon filling into each of the wonton cups. Cover with aluminum foil and bake until the filling is warmed through and bubbly, about 20 minutes. Immediately remove the wontons from the muffin tin to a wire baking rack so the cups remain crispy. Garnish each wonton with the green parts of the green onions and the bell pepper. Serve hot.</li><br>
+
+
+_________________________________________________________________________________
+
+Bacon cheeseburger sliders---------------------------------
+totaltime: 40min
+descinfo:Dive into this comfort food staple: bacon cheeseburger sliders are bursting with flavor, thanks to gooey, melty cheese, loaded burger, and crispy, savory bacon. They're a mini version of your favorite bacon cheeseburger, but better.
+nutritional info:
+	serving size: 1 of 24<br>
+	calories: 380<br>
+	total fat: 24g<br>
+	carbs: 21g<br>
+	sugar: 9g<br>
+	protein: 18g<br>
+	cholesterol: 86mg<br>
+	sodium: 628mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 packages (17 ounces each) Hawaiian sweet rolls<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>22 slices American or cheddar cheese, divided<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 can (14-1/2 ounces) diced tomatoes with garlic and onion, drained<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon Dijon mustard<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon Worcestershire sauce<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3/4 teaspoon salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3/4 teaspoon pepper<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>24 bacon strips, cooked and broken into 1-inch pieces<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup butter, cubed<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 cup packed brown sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 teaspoons Worcestershire sauce<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons Dijon mustard<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons sesame seeds<br></label>
+                    </p>
+
+instructions:
+	<li>Preheat oven to 350°. Without separating rolls, cut each package of rolls horizontally in half; arrange bottom halves in 2 greased 13x9-in. baking pans. In each pan, place 5 slices of cheese on bottom halves of rolls. Bake until cheese is melted, 3-5 minutes.</li><br>
+	<li>In a large skillet, cook beef and onion over medium heat until beef is no longer pink and onion is tender, breaking beef into crumbles, 6-8 minutes; drain. Stir in tomatoes, mustard, Worcestershire sauce, salt and pepper. Cook and stir until combined, 1-2 minutes.</li><br>
+	<li>Spoon beef mixture evenly over rolls; top with bacon and remaining cheese. Replace tops.</li><br>
+	<li>For glaze, in a microwave-safe bowl, combine butter, brown sugar, Worcestershire sauce and mustard. Microwave, covered, on high until butter is melted, stirring occasionally. Drizzle or brush over rolls; sprinkle with sesame seeds. Bake, uncovered, until golden brown and heated through, 20-25 minutes.</li><br>
+
+________________________________________________________________________________________________
+
+main course___
+
+mushroom steak diane -------------------------
+totaltime: 25min
+descinfo:The traditionally meat-centric dish gets a vegan makeover courtesy of king trumpet mushrooms. Miso, soy sauce, and coconut milk add cooked-all-day depth of flavor in minutes.
+nutritional info:
+	serving size:  of 2<br>
+	calories: 422<br>
+	total fat: 19g<br>
+	carbs: 44g<br>
+	sugar: 11g<br>
+	protein: 17g<br>
+	cholesterol: omg<br>
+	sodium: 656mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup low-sodium vegetable broth<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons reduced sodium soy sauce<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons Chinese mustard or Dijon mustard<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons white miso paste<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 pinch crushed red pepper<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3 large king trumpet mushrooms (about 1 pound)<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons vegetable oil<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon vegetable oil<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 shallot, minced<br></label>
+                    </p>
+
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 cup sake<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>cooked black lentils, for serving<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons sliced chives or green onions<br></label>
+                    </p>
+instructions:
+	<li>Stir together broth, soy sauce, mustard, miso paste, and red pepper in a small bowl.</li><br>
+	<li>Cut mushrooms in half lengthwise. Score the inside of each mushroom half with shallow diagonal cuts (do not cut all the way through).</li><br>
+	<li>Heat 2 tablespoons oil in a large cast-iron or nonstick skillet over high heat, swirling to coat bottom. Cook mushrooms, cut sides down, until bottoms are golden brown, 3 to 5 minutes (do not stir). Reduce heat to medium. Pour half of broth mixture (about 1/3 cup) into skillet. Cook, covered, until liquid is mostly absorbed and mushrooms are fork-tender, about 5 minutes. (Add water as needed, 2 tablespoons at a time, if liquid evaporates and mushrooms are not yet tender.) Transfer mushrooms to a bowl.</li><br>
+	<li>Add remaining 1 teaspoon oil and the shallot to skillet. Cook, stirring constantly, over medium heat 30 seconds. Add sake; bring to a boil over high heat. Cook, stirring frequently, until slightly reduced, about 1 minute. Add coconut milk, remaining broth mixture, and any accumulated juices from mushrooms. Cook over high heat just until sauce starts to thicken, about 2 minutes. </li><br>
+	<li>Return mushrooms to skillet. Reduce heat to low. Gently simmer until mushrooms are heated through, adding water as needed, 1 tablespoon at a time, until sauce reaches desired consistency, about 2 minutes. </li><br>
+	<li>Serve mushrooms over lentils and top with sauce and chives.</li><br>
+
+__________________________________________________________________________________
+
+Peach Jalapeño Chicken------------------------------
+totaltime: 30min
+descinfo: This peach jalapeño chicken is a sweet, fruity, spicy dish made in one skillet, another quick way to cook boneless chicken breast. Serve over rice.
+nutritional info:
+	serving size: 1 of 6<br>
+	calories: 276<br>
+	total fat: 7g<br>
+	carbs: 33g<br>
+	sugar: 23g<br>
+	protein: 20g<br>
+	cholesterol: 51mg<br>
+	sodium: 591mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons olive oil<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3 skinless boneless chicken breasts, diced<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon sea salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon freshly ground black pepper<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon smoked paprika<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon onion powder<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon garlic powder<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon chili powder<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 jalapeno, seeded and diced<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 peaches - peeled, pitted, and diced<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup peach preserves<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 tablespoons soy sauce<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon apple cider vinegar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon cornstarch<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>cilantro, fresh or dried, for garnish (optional)<br></label>
+                    </p>
+instructions:
+	<li>Heat olive oil in a large skillet over medium heat until hot, about 2 minutes.</li><br>
+	<li>Season chicken with salt, pepper, smoked paprika, onion powder, garlic powder, and chili powder. Add chicken breast to the hot skillet; cook chicken until no longer pink at the center and juices run clear, about 5 minutes. Remove chicken to a bowl; set aside.</li><br>
+	<li>Add peaches and jalapeño to the same skillet; cook until peaches soften, 5 to 6 minutes.</li><br>
+	<li>In a small bowl, whisk together peach preserves, soy sauce, apple cider vinegar, and cornstarch until well combined. Set aside.</li><br>
+	<li>Return cooked chicken to the skillet and stir in peach preserves mixture, making sure to coat chicken and peaches well. Continue to cook, stirring, until sauce thickens, about 2 minutes.</li><br>
+	<li>Garnish with fresh or dried cilantro when serving.</li><br>
+
+
+_______________________________________________________________________________
+Pulled Pork Casserole-------------------------
+totaltime: 50m
+descinfo:
+nutritional info:
+	serving size: 1 of 8<br>
+	calories: 578<br>
+	total fat: 32g<br>
+	carbs: 54g<br>
+	sugar: 21g<br>
+	protein: 20g<br>
+	cholesterol: 125mg<br>
+	sodium: 1343mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 (12-ounce) package refrigerated sauceless pulled pork<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 cups frozen whole kernel corn, divided<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 (15-ounce) can black beans or kidney beans, rinsed and drained<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup barbecue sauce<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 (8.5 ounce) package corn bread mix<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup butter, melted<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 (8-ounce) carton sour cream<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 large egg<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>pickled onion (see Note) (optional)<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>coleslaw (optional)<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 (8-ounce) package shredded Cheddar cheese<br></label>
+                    </p>
+instructions:
+	<li>Preheat the oven to 350 degrees F (175 degrees C). Combine pulled pork, 1 cup corn, beans, 1/2 of the Cheddar cheese, and barbecue sauce in a 9x13-inch baking dish; stir until evenly mixed. Gently spread in an even layer. </li><br>
+	<li>Stir together cornbread mix, remaining 1 cup corn, remaining Cheddar cheese, melted butter, sour cream, and egg in a bowl until well combined.</li><br>
+	<li>Spoon cornbread mixture over the pulled pork, spreading evenly. </li><br>
+	<li>Bake in the preheated oven until golden brown and cornbread is set (it will be a little moist), 30 to 35 minutes.</li><br>
+	<li>Let cool 5 minutes before serving. Serve with pickled onion or coleslaw, if desired.</li><br>
+
+______________________________________________________________________________________________________________
+Homemade Mac and Cheese Recipe------------------------------
+totaltime: 15min
+descinfo: This Easy Homemade Mac and Cheese Recipe is made with 6 ingredients in 15 minutes on the stovetop (no baking required)! Time to ditch the boxed mac and cheese for this irresistibly creamy, smooth & cheesy homemade recipe! 
+nutritional info:
+	serving size: 1 of 8<br>
+	calories: 271<br>
+	total fat: 13.8g<br>
+	carbs: 25g<br>
+	sugar: 2.6g<br>
+	protein: 12.3g<br>
+	cholesterol: 41.7mg<br>
+	sodium: 351mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>8 ounces elbow macaroni uncooked<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 Tablespoons salted butter<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 Tablespoons all-purpose flour<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon sea salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 teaspoon garlic powder (optional but recommended)<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup  whole milk<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 cup sour cream or Greek yogurt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>8 ounces shredded cheddar cheese (2 cups)<br></label>
+                    </p>
+instructions:
+	<li>Cook elbow macaroni according to package instructions. Be sure to add ¼ tsp salt to the water used to boil the noodles. Drain, and set aside.</li><br>
+	<li>Mix flour, sea salt, and garlic powder together in a small bowl. Set aside.</li><br>
+	<li>In a medium saucepan over medium heat, melt the butter.</li><br>
+	<li>Add flour mixture and whisk to combine.</li><br>
+	<li>Cook for 1 minute until mixture is slightly brown.</li><br>
+	<li>Add 1 cup milk and whisk until the mixture is smooth.</li><br>
+	<li>Add sour cream (or Greek yogurt) and whisk until smooth.</li><br>
+	<li>Cook on medium-high heat until the mixture is thickened (about 3-5 minutes). Do not let it boil.</li><br>
+	<li>Once mixture is thick (sticks to the back of the spatula), reduce heat to low and add cheese. Whisk until cheese is melted and mixture is smooth. Taste and add more salt/seasoning if desired.</li><br>
+	<li>Add cooked pasta to the pot of cheese sauce and stir until the sauce is evenly distributed.</li><br>
+	<li>Let the mac and cheese cool for 3-5 minutes or until the cheese sauce has thickened a little bit and sticks to the noodles. Serve warm!</li><br>
+
+________________________________________________________________________________________________
+
+desserts___
+
+tiramisu--------------------
+totaltime: 10min
+descinfo:This delicious and unbelievably easy Tiramisu recipe is made with coffee soaked lady fingers, sweet and creamy mascarpone (no raw eggs!), and cocoa powder dusted on top. It requires no baking and can be made in advance!
+nutritional info:
+	serving size: 1 of 9<br>
+	calories: 297<br>
+	total fat: 18g<br>
+	carbs: 26g<br>
+	sugar: 11g<br>
+	protein: 5g<br>
+	cholesterol: 88mg<br>
+	sodium: 77mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 1/2 cups heavy whipping cream<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>8 ounce container mascarpone cheese ,room temperature<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/3 cup granulated sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon vanilla extract<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 1/2 cups cold espresso<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3 Tablespoons coffee flavored liqueur ,optional (Kahlua or DaVinci brands)<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>▢1 package Lady Fingers ,Savoiardi brand can be found in the cookie aisle at your local grocery store, or online<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>Cocoa powder for dusting the top<br></label>
+                    </p>
+
+instructions:
+	<li>Add whipping cream to a mixing bowl and beat on medium speed with electric mixers (or use a stand mixer). Slowly add sugar and vanilla and continue to beat until stiff peaks. Add mascarpone cheese and fold in until combined. Set aside.</li><br>
+	<li>Add coffee and liqueur to a shallow bowl. Dip the lady fingers in the coffee (Don't soak them--just quickly dip them on both sides to get them wet) and lay them in a single layer on the bottom of an 8x8'' or similar size pan. </li><br>
+	<li>Smooth half of the mascarpone mixture over the top. Add another layer of dipped lady fingers. Smooth remaining mascarpone cream over the top.</li><br>
+	<li>Dust cocoa powder generously over the top (I use a fine mesh strainer to do this). Refrigerate for at least 3-4 hours or up to overnight before serving.</li><br>
+
+______________________________________________________________________
+
+apple fritter cake--------------
+totaltime: 1hr 55min
+descinfo:This apple fritter cake was inspired by the delicious flavor of a warm, cinnamon apple fritter. The lightly spiced cake batter is baked with plenty of chopped tart apple on top, and then finished with vanilla icing. Serve warm for best flavor and texture.
+nutritional info:
+	serving size: 1 of 16<br>
+	calories: 346<br>
+	total fat: 17g<br>
+	carbs: 45g<br>
+	sugar: 31g<br>
+	protein: 4g<br>
+	cholesterol: 79mg<br>
+	sodium: 216mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup unsalted butter, plus more for greasing the pan<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>4 1/2 cups peeled, cored, and finely chopped tart apples<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon lemon juice<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup firmly packed light brown sugar, divided<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 1/2 teaspoons ground cinnamon, divided<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3/4 cup white sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon ground nutmeg<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3 large eggs, at room temperature<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 teaspoons vanilla extract<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup full fat sour cream, at room temperature<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/3 cup apple cider<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 cups all-purpose flour<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon baking powder<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 teaspoon baking soda<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup confectioner's sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 pinch salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/4 teaspoon vanilla extract<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>5 tablespoons heavy cream, or as needed<br></label>
+                    </p>
+instructions:
+	<li>Place 1 cup unsalted butter into a light-colored medium saucepan. Cook over medium-low heat, stirring frequently, until butter is browned, 6 to 8 minutes. Pour browned butter into a large mixing bowl and allow to cool for 15 minutes.</li><br>
+	<li>Combine apples and lemon juice in a large bowl. Toss to coat. Add in 1/2 cup brown sugar and 1 teaspoon cinnamon and toss until thoroughly combined. Set aside.</li><br>
+	<li>Preheat the oven to 350 degrees F (175 degrees C). Generously butter a 9x13-inch baking dish.</li><br>
+	<li>To the cooled brown butter, add white sugar, remaining 1/2 cup brown sugar, salt, remaining 1/2 teaspoon cinnamon, and nutmeg; whisk until combined. Add in eggs and vanilla and whisk until thoroughly combined; whisk in sour cream and apple cider. Add in flour, baking powder, and baking soda and stir until batter is mostly smooth.</li><br>
+	<li>Pour batter into the prepared pan and smooth into an even layer. Scatter apples and their accumulated juices evenly over the top of the batter.</li><br>
+	<li>Bake in the preheated oven until a toothpick inserted into the center of the cake comes out mostly clean, 55 to 65 minutes. Allow cake to cool for about 15 to 20 minutes.</li><br>
+	<li>Meanwhile, make icing. Whisk together powdered sugar, salt, vanilla, and heavy cream until it is  a smooth, pourable consistency, adding more heavy cream if needed. Pour icing over warm cake and smooth over the top to evenly coat. Serve cake warm.</li><br>
+
+_______________________________________________________________________
+
+chocolate chip cookie--------------------
+totaltime: 20min
+descinfo:These chewy chocolate chip cookies are the pinnacle of perfection! If you want a big, fat, soft, and chewy cookie like the kind you see at bakeries and specialty shops, then this is the recipe for you!
+nutritional info:
+	serving size: 1 of 18<br>
+	calories: 285<br>
+	total fat: 14g<br>
+	carbs: 40g<br>
+	sugar: 28g<br>
+	protein: 3g<br>
+	cholesterol: 42mg<br>
+	sodium: 111mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 cups all-purpose flour<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon baking soda<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 teaspoon salt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 cup packed brown sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3/4 cup unsalted butter, melted<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1/2 cup white sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 egg<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 egg yolk<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 tablespoon vanilla extract<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>2 cups semisweet chocolate chips<br></label>
+                    </p>
+instructions:
+	<li>Gather all ingredients. Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets or line with parchment paper.</li><br>
+	<li>Sift flour, baking soda, and salt together; set aside.</li><br>
+	<li>Beat brown sugar, melted butter, and white sugar with an electric mixer in a large bowl until smooth.</li><br>
+	<li>Beat in egg, egg yolk, and vanilla until light and creamy; add flour mixture and stir until dough is just combined.</li><br>
+	<li>Stir in chocolate chips.</li><br>
+	<li>Drop spoonfuls of dough 3 inches apart onto the prepared baking sheets.</li><br>
+	<li>Bake in the preheated oven until edges are golden, about 15 to 17 minutes.</li><br>
+	<li>Cool on the cookie sheets briefly before transferring them to a wire rack to cool completely.</li><br>
+
+________________________________________________________________________________________________
+
+Frozen Yogurt---------------------------------
+
+totaltime: 35ming
+descinfo: It's important to use good-quality yogurt here. I typically opt for plain Greek Yogurt. The sweetened bright-white, yogurt plays nicely with the tang of the yogurt. If you tend to like things less sweet, you can scale the sugar back to 2/3 with good results.
+nutritional info:
+	serving size: 1 of 6<br>
+	calories: 159<br>
+	total fat: .6g<br>
+	carbs: 29g<br>
+	sugar: 28g<br>
+	protein: 10g<br>
+	cholesterol: 5mg<br>
+	sodium: 36mg<br>
+ingredients:
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3 cups (720g) strained yogurt* or Greek-style yogurt<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>3/4 cup (150g) sugar<br></label>
+                    </p>
+		    <p>
+                        <input type="checkbox" name="ingredients" class="strikethrough">
+                        <label>1 teaspoon vanilla extract (optional)<br></label>
+                    </p>
+instructions:
+	<li>Mix together the yogurt, sugar, and vanilla (if using). Stir until the sugar is completely dissolved. Refrigerate 1 hour.</li><br>
+	<li>Freeze in your ice cream maker according to the manufacturer's instructions.</li><br>
+	<li>*To make 1 cup (240g) of strained yogurt, line a mesh strainer with a few layers of cheese cloth. then scrape 16 ounces or 2 cups (480g) of plain whole-milk yogurt into the cheesecloth. Gather the ends and fold them over the yogurt, then refrigerate for at least 6 hours. So, for the above recipe start with and strain 6 cups of yogurt.</li><br>
+
