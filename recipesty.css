@@ -190,16 +190,20 @@ label:hover{
     text-align: center;
 }
 
-.dietlabel {
-    color: white;
-    padding: 8px;
-    height: 20px;
-    width: 70px;
+.dietlabels {
+    display: inline-block;
+    color: #F1F0EA;
+    padding: 8px 10px;
     font-size: 15px;
+    text-align: center;
 }
 
 .vegetarian {
     background-color: #58a458;
+}
+
+.vegan {
+    background-color: #9d6e62;
 }
 
 .divider {
