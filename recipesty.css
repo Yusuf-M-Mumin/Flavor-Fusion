@@ -19,6 +19,7 @@ body{
 h2 {
     font-family: "Zain", sans-serif;
     font-size: 30px;
+    color: #B6465F;
 }
 
 .header{
@@ -88,6 +89,7 @@ h2 {
     font-family: "ABeeZee", sans-serif;
     font-weight: 300;
     font-size: 15px;
+    color: #B6465F;
 }
 
 .desc{
