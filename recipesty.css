@@ -20,7 +20,7 @@ body{
     margin: 0;
     text-align: center;
     padding: 20px;
-    background-color: #3C3C3C;
+    background-color: #B6465F;
     color: #F1F0EA;
 }
 
@@ -33,6 +33,7 @@ body{
     position: sticky;
     z-index: 10;
     top: 0;
+    box-shadow: 0px 2px 10px -5px #3C3C3C;
 }
 
 .navbar ul{
@@ -40,7 +41,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: linear-gradient(#B6465F, #c9788a);
+    background-color: #d5627b;
 }
 
 .navbar li{
@@ -64,6 +65,7 @@ body{
     overflow: auto;
     white-space: nowrap;
     padding: 10px;
+    margin: 50px;
 }
 
 .scrolling-gallery img{
@@ -81,7 +83,7 @@ body{
     display: flex;
     margin-left: 100px;
     margin-right: 100px;
-    background-color: #B6465F;
+    align-items: center;
     justify-content: center;
     gap: 50px;
 }
@@ -106,7 +108,7 @@ body{
 }
 
 .ingredients{
-    background-color: lightgrey;
+    border: 3px solid #B6465F;
     flex-basis: 30%;
     margin-right: 25px;
 }
@@ -122,17 +124,18 @@ body{
 }
 
 .strikethrough:checked + label{
-    text-decoration:line-through
+    text-decoration:line-through;
+    color: #B6465F;
 }
 
 .checkbox{
     padding-left: 25px;
-    padding-top: 5px;
+    padding-top: 0px;
     margin: 50px;
 }
 
 label:hover{
-    color: red;
+    color: #B6465F;
     font-size: 24px;
 }
 
@@ -169,20 +172,36 @@ label:hover{
 }
   
 .flip-card-front {
-    background-color: white;
+    background-color: #F1F0EA;
     color: black;
 }
   
 .flip-card-back {
     text-align: center;
-    background-color: white;
+    background-color: #F1F0EA;
     color: black;
     transform: rotateY(180deg);
 }
 
 .time {
-    margin-top: 50px;
+    margin-top: 5px;
     margin-bottom: 5px;
     align-content: center;
     text-align: center;
+}
+
+.dietlabel {
+    color: white;
+    padding: 8px;
+    height: 20px;
+    width: 70px;
+    font-size: 15px;
+}
+
+.vegetarian {
+    background-color: #58a458;
+}
+
+.divider {
+    border-top: 1px solid #AF7A6D;
 }
