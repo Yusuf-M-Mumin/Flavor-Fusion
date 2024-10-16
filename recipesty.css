@@ -1,9 +1,14 @@
 /* Color palette:
 #3C3C3C - charcoal
 #E0DDCF - bone
-#F1F0EA - white-ish color
+#f4f4f4 - white-ish color
 #AF7A6D - muted red-brown
 #B6465F - raspberry rose
+
+Font scheme:
+Zain - Website title 
+ABeeZee - Headers
+Inter - Text
 */
 
 *{
@@ -11,24 +16,23 @@
 }
 
 body{
-    font-family: Verdana, sans-serif;
     margin: 0;
-    background-color: #F1F0EA;
+    background-color: #f4f4f4;
 }
 
 h2 {
-    font-family: "Zain", sans-serif;
+    font-family: "ABeeZee", sans-serif;
     font-size: 30px;
 }
 
 .header{
     margin: 0;
-    text-align: center;
-    padding: 20px;
+    text-align: left;
+    padding: 10px;
     background-color: #B6465F;
-    color: #F1F0EA;
+    color: #f4f4f4;
     font-family: "Zain", sans-serif;
-    font-size: 35px;
+    font-size: 20px;
 }
 
 .navbar{
@@ -58,7 +62,7 @@ h2 {
 
 .navbar li a{
     display: block;
-    color: #F1F0EA;
+    color: #f4f4f4;
     text-align: center;
     padding: 10px 16px;
     text-decoration: none;
@@ -80,6 +84,8 @@ h2 {
     padding: 10px;
     width: 500;
     height: 300;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 .name{
@@ -190,13 +196,13 @@ label:hover{
 }
   
 .flip-card-front {
-    background-color: #F1F0EA;
+    background-color: #f4f4f4;
     color: black;
 }
   
 .flip-card-back {
     text-align: center;
-    background-color: #F1F0EA;
+    background-color: #f4f4f4;
     color: black;
     transform: rotateY(180deg);
 }
@@ -211,7 +217,7 @@ label:hover{
 
 .dietlabels {
     display: inline-block;
-    color: #F1F0EA;
+    color: #f4f4f4;
     padding: 8px 10px;
     font-family: "Inter", sans-serif;
     font-size: 15px;
