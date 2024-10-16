@@ -1,3 +1,16 @@
+/* Color palette:
+#3C3C3C - charcoal
+#E0DDCF - bone
+#f4f4f4 - white-ish color
+#AF7A6D - muted red-brown
+#B6465F - raspberry rose
+
+Font scheme:
+Zain - Website title 
+ABeeZee - Headers
+Inter - Text
+*/
+
 * {
     margin: 0;
     padding: 0;
@@ -13,24 +26,38 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20px;
 }
 
 
 header {
     width: 100%;
     text-align: center;
-    font-size: 120px;
-    padding: 10px 0;
-    background-color: #333;
+    padding: 10px;
+    background-color: #B6465F;
     color: white;
+    font-family: "Zain", sans-serif;
+    font-size: 100px;
 }
 
 .navbar {
-    background-color: #333;
+    background-color: #d5627b;
     width: 100%;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
     text-align: center;
-    padding: 10px 0;
+    padding: 0;
+    box-shadow: 0px 2px 10px -5px #3C3C3C;
+}
+
+.name{
+    text-align: center;
+    margin: 30px;
+    font-family: "ABeeZee", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    margin-bottom: -20px;
+
 }
 
 .menu {
@@ -49,11 +76,11 @@ header {
     color: white;
     padding: 10px 20px;
     display: block;
-    background-color: #333;
+    background-color: #d5627b;
 }
 
 .dropbtn:hover {
-    background-color: #555;
+    background-color: #B6465F;
 }
 
 .dropdown-content {
@@ -63,6 +90,7 @@ header {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     min-width: 160px;
     z-index: 1;
+    list-style-type: none;
 }
 
 .dropdown-content a {
@@ -96,8 +124,7 @@ header {
     gap: 10px;
     justify-content: space-between;
     width: 45%;
-    margin-top: 50px;
-    border: 2px solid lightgrey;
+    margin-top: 45px;
 }
 
 .container1 {
@@ -116,10 +143,10 @@ header {
     overflow: hidden;
     position: relative;
     margin: 20px;
+    font-family: "ABeeZee", sans-serif;
     border-radius: 12px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: transform 0.5s ease, filter 0.5s ease;
-
 }
 
 .image1 {
