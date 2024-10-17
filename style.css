@@ -125,16 +125,19 @@ header {
     justify-content: space-between;
     width: 45%;
     margin-top: 45px;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
 }
 
-.container1 {
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    position: relative;
-    margin-bottom: 30px;
-    margin-top: 40px;
-    border-radius: 12px;
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 .container-category {
@@ -154,11 +157,6 @@ header {
     height: 100%;
     object-fit: cover;
     transition: transform 0.5s ease, filter 0.5s ease;
-}
-
-.container1:hover .image1 {
-    transform: scale(1.2);
-    filter: grayscale(100%);
 }
 
 .container-category:hover{
